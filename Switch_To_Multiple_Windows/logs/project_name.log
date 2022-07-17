@@ -1,0 +1,24 @@
+2022-07-1721:47:41.646 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:48)]-Invoking the browser
+2022-07-1721:47:48.477 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:52)]-url opened
+2022-07-1721:47:52.278 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:48)]-Invoking the browser
+2022-07-1721:47:55.309 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:52)]-url opened
+2022-07-1721:47:57.302 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:48)]-Invoking the browser
+2022-07-1721:48:00.110 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:52)]-url opened
+2022-07-1722:15:37.260 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:48)]-Invoking the browser
+2022-07-1722:15:44.868 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:52)]-url opened
+2022-07-1722:15:45.112 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:54)]-page title validated
+2022-07-1722:15:46.794 INFO [main][commonMethods.SeleniumSpecificMethods.click(SeleniumSpecificMethods.java:128)]-clicked on the link Selenium Example Page
+2022-07-1722:15:47.208 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:54)]-page title validated
+2022-07-1722:15:49.243 INFO [main][commonMethods.SeleniumSpecificMethods.click(SeleniumSpecificMethods.java:128)]-clicked on the link 
+2022-07-1722:15:54.743 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:48)]-Invoking the browser
+2022-07-1722:16:02.682 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:52)]-url opened
+2022-07-1722:16:02.768 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:54)]-page title validated
+2022-07-1722:16:03.226 INFO [main][commonMethods.SeleniumSpecificMethods.click(SeleniumSpecificMethods.java:128)]-clicked on the link Selenium Example Page
+2022-07-1722:16:03.523 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:54)]-page title validated
+2022-07-1722:16:04.505 INFO [main][commonMethods.SeleniumSpecificMethods.click(SeleniumSpecificMethods.java:128)]-clicked on the link 
+2022-07-1722:16:04.832 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:48)]-Invoking the browser
+2022-07-1722:16:09.331 INFO [main][hooks.Hooks.openBrowserAndUrl(Hooks.java:52)]-url opened
+2022-07-1722:16:09.349 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:54)]-page title validated
+2022-07-1722:16:09.940 INFO [main][commonMethods.SeleniumSpecificMethods.click(SeleniumSpecificMethods.java:128)]-clicked on the link Selenium Example Page
+2022-07-1722:16:10.103 INFO [main][commonMethods.SeleniumSpecificMethods.validate_PageTitle(SeleniumSpecificMethods.java:54)]-page title validated
+2022-07-1722:16:10.974 INFO [main][commonMethods.SeleniumSpecificMethods.click(SeleniumSpecificMethods.java:128)]-clicked on the link 
